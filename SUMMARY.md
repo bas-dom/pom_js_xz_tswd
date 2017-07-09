@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [优化节能类问题](logic/logic.md)
-  * 冷却塔频率偏低?
+  * [冷却塔频率偏低?](logic/logic/leng-que-ta-pin-lv-pian-4f4e3f.md)
 * 用户需求
   * [要求能查每日冷量数据](yao-qiu-neng-cha-mei-ri-leng-liang-shu-ju.md)
 * 常规运行问题
