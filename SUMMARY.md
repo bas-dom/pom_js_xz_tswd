@@ -13,4 +13,6 @@
   * [冷却塔频率偏低?](logic/logic/leng-que-ta-pin-lv-pian-4f4e3f.md)
 * [系统固有问题](xi-tong-gu-you-wen-ti.md)
   * [诊断：3\#冷水机组管路电动阀关不严影响较大](xi-tong-gu-you-wen-ti/3leng-shui-ji-zu-guan-lu-dian-dong-fa-guan-bu-yan-ying-xiang-jiao-da.md)
+* [控制策略](kong-zhi-ce-lve.md)
+  * [加减机策略](kong-zhi-ce-lve/jia-jian-ji-ce-lve.md)
 
