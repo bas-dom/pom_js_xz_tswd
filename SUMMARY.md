@@ -1,6 +1,9 @@
 # Summary
 
 * [摘要](README.md)
+* [控制策略配置](kong-zhi-ce-lve.md)
+  * [加减机策略](kong-zhi-ce-lve/jia-jian-ji-ce-lve.md)
+  * [开关机日程策略](kong-zhi-ce-lve/kai-guan-ji-ri-cheng-ce-lve.md)
 * 用户需求
   * [要求能查每日冷量数据](yao-qiu-neng-cha-mei-ri-leng-liang-shu-ju.md)
 * [常规运行问题](chang-gui-yun-xing-wen-ti.md)
@@ -13,6 +16,4 @@
   * [冷却塔频率偏低?](logic/logic/leng-que-ta-pin-lv-pian-4f4e3f.md)
 * [系统固有问题](xi-tong-gu-you-wen-ti.md)
   * [诊断：3\#冷水机组管路电动阀关不严影响较大](xi-tong-gu-you-wen-ti/3leng-shui-ji-zu-guan-lu-dian-dong-fa-guan-bu-yan-ying-xiang-jiao-da.md)
-* [控制策略](kong-zhi-ce-lve.md)
-  * [加减机策略](kong-zhi-ce-lve/jia-jian-ji-ce-lve.md)
 
