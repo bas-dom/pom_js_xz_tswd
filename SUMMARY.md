@@ -4,6 +4,7 @@
 * [控制策略配置](kong-zhi-ce-lve.md)
   * [加减机策略](kong-zhi-ce-lve/jia-jian-ji-ce-lve.md)
   * [开关机日程策略](kong-zhi-ce-lve/kai-guan-ji-ri-cheng-ce-lve.md)
+  * [系统变频优化](kong-zhi-ce-lve/xi-tong-bian-pin-you-hua.md)
 * 用户需求
   * [要求能查每日冷量数据](yao-qiu-neng-cha-mei-ri-leng-liang-shu-ju.md)
 * [常规运行问题](chang-gui-yun-xing-wen-ti.md)
