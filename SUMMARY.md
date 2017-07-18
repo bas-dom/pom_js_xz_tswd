@@ -13,6 +13,7 @@
   * [冷却塔设定和反馈不一致问题](data/data.md)
   * [商业4\#小机必须开两台冷却泵](shang-ye-4-xiao-ji-bi-xu-kai-liang-tai-leng-que-beng.md)
   * [商业4\#冷却泵过热保护，频率降零导致小机跳机](shang-ye-4-leng-que-beng-guo-re-bao-hu-ff0c-pin-lv-jiang-ling-dao-zhi-xiao-ji-tiao-ji.md)
+  * [4\#机组跳机分析](4ji-zu-tiao-ji-fen-xi.md)
 * [优化节能类问题](logic/logic.md)
   * [冷却塔频率偏低?](logic/logic/leng-que-ta-pin-lv-pian-4f4e3f.md)
 * [系统固有问题](xi-tong-gu-you-wen-ti.md)
