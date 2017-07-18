@@ -16,6 +16,7 @@
   * [4\#机组跳机分析](4ji-zu-tiao-ji-fen-xi.md)
 * [优化节能类问题](logic/logic.md)
   * [冷却塔频率偏低?](logic/logic/leng-que-ta-pin-lv-pian-4f4e3f.md)
+  * [需要加机预判指导开机](logic/logic/xu-yao-jia-ji-yu-pan-zhi-dao-kai-ji.md)
 * [系统固有问题](xi-tong-gu-you-wen-ti.md)
   * [诊断：3\#冷水机组管路电动阀关不严影响较大](xi-tong-gu-you-wen-ti/3leng-shui-ji-zu-guan-lu-dian-dong-fa-guan-bu-yan-ying-xiang-jiao-da.md)
 
