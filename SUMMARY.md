@@ -15,6 +15,7 @@
   * [商业4\#冷却泵过热保护，频率降零导致小机跳机](shang-ye-4-leng-que-beng-guo-re-bao-hu-ff0c-pin-lv-jiang-ling-dao-zhi-xiao-ji-tiao-ji.md)
   * [4\#机组跳机分析](4ji-zu-tiao-ji-fen-xi.md)
   * [缺乏友好型提示，比如主机被禁用、报警中导致不能开启](que-fa-you-hao-xing-ti-shi-ff0c-bi-ru-zhu-ji-bei-jin-yong-3001-bao-jing-zhong-dao-zhi-bu-neng-kai-qi.md)
+  * [冷冻机房电柜掉电后很久才知道冷机没开](leng-dong-ji-fang-dian-gui-diao-dian-hou-hen-jiu-cai-zhi-dao-leng-ji-mei-kai.md)
 * [优化节能类问题](logic/logic.md)
   * [冷却塔频率偏低?](logic/logic/leng-que-ta-pin-lv-pian-4f4e3f.md)
   * [改进：需要加机预判指导开机](logic/logic/xu-yao-jia-ji-yu-pan-zhi-dao-kai-ji.md)
