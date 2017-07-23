@@ -22,4 +22,5 @@
 * [系统固有问题](xi-tong-gu-you-wen-ti.md)
   * [诊断：3\#冷水机组管路电动阀关不严影响较大](xi-tong-gu-you-wen-ti/3leng-shui-ji-zu-guan-lu-dian-dong-fa-guan-bu-yan-ying-xiang-jiao-da.md)
   * [诊断：3\#冷却水泵频率设定下去，变频器不动作](xi-tong-gu-you-wen-ti/zhen-duan-ff1a-3-leng-que-shui-beng-pin-lv-she-ding-xia-qu-ff0c-bian-pin-qi-bu-dong-zuo.md)
+  * 诊断：冷冻水总管传感器，冷却水总管传感器分别诊断
 
