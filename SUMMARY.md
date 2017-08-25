@@ -28,6 +28,6 @@
   * 诊断：冷冻水总管传感器，冷却水总管传感器分别诊断
 * [一键开关机问题](yi-jian-kai-guan-ji-wen-ti.md)
   * [一键关机后冷却塔为何不关](yi-jian-kai-guan-ji-wen-ti/yi-jian-guan-ji-hou-leng-que-ta-wei-he-bu-guan.md)
-* 操作总结
-  * [2017年8月](2017nian-8-yue.md)
+* [运维报告](cao-zuo-zong-jie.md)
+  * [2017年8月月报](2017nian-8-yue.md)
 
