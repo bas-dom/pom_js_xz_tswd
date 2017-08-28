@@ -19,6 +19,7 @@
   * [4号冷却泵启动成功，频率设定50Hz命令有效，但是反馈运行频率0Hz](4hao-leng-que-beng-qi-dong-cheng-gong-ff0c-pin-lv-she-ding-50hz-ming-ling-you-xiao-ff0c-dan-shi-fan-kui-yun-xing-pin-lv-0hz.md)
   * [冷却泵没加起来](leng-que-beng-mei-jia-qi-lai.md)
   * [4\#冷机跳机分析](4leng-ji-tiao-ji-fen-xi.md)
+  * [1\#冷机因启动柜原因跳机](1leng-ji-yin-qi-dong-gui-yuan-yin-tiao-ji.md)
 * [优化节能类问题](logic/logic.md)
   * [冷却塔频率偏低?](logic/logic/leng-que-ta-pin-lv-pian-4f4e3f.md)
   * [改进：需要加机预判指导开机](logic/logic/xu-yao-jia-ji-yu-pan-zhi-dao-kai-ji.md)
